@@ -1,1 +1,1 @@
-# Simple Web App with implementation of Thymeleaf templates
+# Simple Java Web App with implementation of Thymeleaf templates
